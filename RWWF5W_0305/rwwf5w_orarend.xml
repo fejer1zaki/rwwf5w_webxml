@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rwwf5w_orarend>
+
+	<ora id="01" tipus="elmelet">
+		<kurzus>Komputergrafika es kepfeldolgozas</kurzus>
+		<idopont >
+			<nap>Hetfo</nap>
+			<tol>14:00</tol>
+			<ig>15:25</ig>
+		</idopont>
+		<helyszin>online</helyszin>
+		<oktato>Fazekas Levente Aron</oktato>
+		<szak>Programtervezo informatikus</szak>
+	</ora>
+
+	<ora id="02" tipus="elmelet">
+		<kurzus>Informatikatortenet</kurzus>
+		<idopont >
+			<nap>Hetfo</nap>
+			<tol>15:00</tol>
+			<ig>18:25</ig>
+		</idopont>
+		<helyszin>Hars</helyszin>
+		<oktato>Janics Tamas</oktato>
+		<szak>Programtervezo informatikus</szak>
+	</ora>
+	
+	<ora id="03" tipus="elmelet">
+		<kurzus>Alkalmazások fejlesztése projekt labor</kurzus>
+		<idopont >
+			<nap>Kedd</nap>
+			<tol>10:00</tol>
+			<ig>12:55</ig>
+		</idopont>
+		<helyszin>Hars terem</helyszin>
+		<oktato>Perlaki Attila</oktato>
+		<szak>Programtervezo informatikus</szak>
+	</ora>
+	
+	<ora id="04" tipus="elmelet">
+		<kurzus>Webkönyvtarak</kurzus>
+		<idopont >
+			<nap>Szerda</nap>
+			<tol>14:00</tol>
+			<ig>15:25</ig>
+		</idopont>
+		<helyszin>online</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>Programtervezo informatikus</szak>
+	</ora>
+	
+</rwwf5w_orarend>
